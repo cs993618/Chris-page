@@ -1,5 +1,5 @@
 //check off specific todos by clicking
-$('ul').on("click","",function(){
+$('li').on("click","",function(){
 	$(this).toggleClass("completed");
 
 });
