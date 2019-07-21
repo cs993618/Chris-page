@@ -2,6 +2,11 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+.info{
+	margin: 360px;
+	text-align: center;
+}
+
 form {
 	max-width: 500px;
 	margin: 0 auto;
